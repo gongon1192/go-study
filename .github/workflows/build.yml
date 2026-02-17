@@ -33,4 +33,7 @@ jobs:
           # ここで実行ファイルを直接指定します
           files: hello-termux
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+
+
+          
